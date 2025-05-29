@@ -1,27 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;600&family=Sail&display=swap');
 @import url(reset.css);
 
-body, html {
-  margin: 0;
-  padding: 0;
-}
-
-* {
-  outline: 1px solid red; /* 디버깅용 */
-}
-
-img {
-  display: block;
-  max-width: 100%;
-}
-
-section#home {
-  margin: 0;
-  padding: 0;
-  height: auto;
-  background: none; /* 배경 테스트용 제거 */
-}
-
 /* Font */
 body {
     font-family: 'Poppins', sans-serif;
